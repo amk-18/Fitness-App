@@ -1,0 +1,8 @@
+in/parida/fitness/userservice/UserserviceApplication.class
+in/parida/fitness/userservice/services/UserService.class
+in/parida/fitness/userservice/repository/UserRepository.class
+in/parida/fitness/userservice/dto/UserResponse.class
+in/parida/fitness/userservice/models/User.class
+in/parida/fitness/userservice/dto/RegisterRequest.class
+in/parida/fitness/userservice/controller/UserController.class
+in/parida/fitness/userservice/models/UserRole.class

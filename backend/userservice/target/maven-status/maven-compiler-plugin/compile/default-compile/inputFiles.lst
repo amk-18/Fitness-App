@@ -1,0 +1,8 @@
+/home/ambika/projects/fullstack/fitnessApp/backend/userservice/src/main/java/in/parida/fitness/userservice/UserserviceApplication.java
+/home/ambika/projects/fullstack/fitnessApp/backend/userservice/src/main/java/in/parida/fitness/userservice/controller/UserController.java
+/home/ambika/projects/fullstack/fitnessApp/backend/userservice/src/main/java/in/parida/fitness/userservice/dto/RegisterRequest.java
+/home/ambika/projects/fullstack/fitnessApp/backend/userservice/src/main/java/in/parida/fitness/userservice/dto/UserResponse.java
+/home/ambika/projects/fullstack/fitnessApp/backend/userservice/src/main/java/in/parida/fitness/userservice/models/User.java
+/home/ambika/projects/fullstack/fitnessApp/backend/userservice/src/main/java/in/parida/fitness/userservice/models/UserRole.java
+/home/ambika/projects/fullstack/fitnessApp/backend/userservice/src/main/java/in/parida/fitness/userservice/repository/UserRepository.java
+/home/ambika/projects/fullstack/fitnessApp/backend/userservice/src/main/java/in/parida/fitness/userservice/services/UserService.java

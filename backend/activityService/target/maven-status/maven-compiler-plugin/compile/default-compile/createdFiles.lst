@@ -1,0 +1,11 @@
+in/parida/fitness/activityService/model/ActivityType.class
+in/parida/fitness/activityService/service/ActivityService.class
+in/parida/fitness/activityService/dto/ActivityRequest.class
+in/parida/fitness/activityService/model/Activity.class
+in/parida/fitness/activityService/ActivityServiceApplication.class
+in/parida/fitness/activityService/config/MongoConfig.class
+in/parida/fitness/activityService/controller/ActivityController.class
+in/parida/fitness/activityService/model/Activity$ActivityBuilder.class
+in/parida/fitness/activityService/repository/ActivityRepository.class
+in/parida/fitness/activityService/exception/GlobalExceptionHandler.class
+in/parida/fitness/activityService/dto/ActivityResponse.class
