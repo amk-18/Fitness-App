@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: aiservice
+  data:
+    mongodb:
+      # OPTION A: Use connection-string (recommended for Spring Boot 4.x)
+      connection-string: "mongodb://localhost:27017/airecofitness"
+
+      # OPTION B: Or use explicit properties
+      # host: localhost
+      # port: 27017
+      # database: airecofitness
+
+      # Additional settings
+      auto-index-creation: true
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+server:
+  port: 8083
+
+logging:
+  level:
+    org.springframework.data.mongodb.core: DEBUG
