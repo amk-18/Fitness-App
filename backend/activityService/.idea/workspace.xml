@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e698b52a-e95d-4417-8747-2632cad42336" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/activity-service.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/parida/fitness/activityService/ActivityServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/parida/fitness/activityService/config/MongoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/parida/fitness/activityService/controller/ActivityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/parida/fitness/activityService/dto/ActivityRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/parida/fitness/activityService/dto/ActivityResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/parida/fitness/activityService/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/parida/fitness/activityService/model/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/parida/fitness/activityService/model/ActivityType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/parida/fitness/activityService/repository/ActivityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/parida/fitness/activityService/service/ActivityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/in/parida/fitness/activityService/ActivityServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka/src/main/java/in/parida/fitness/eureka/EurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka/src/test/java/in/parida/fitness/eureka/EurekaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/src/main/java/in/parida/fitness/userservice/UserserviceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/src/main/java/in/parida/fitness/userservice/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/src/main/java/in/parida/fitness/userservice/dto/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/src/main/java/in/parida/fitness/userservice/dto/UserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/src/main/java/in/parida/fitness/userservice/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/src/main/java/in/parida/fitness/userservice/models/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/src/main/java/in/parida/fitness/userservice/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/src/main/java/in/parida/fitness/userservice/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../userservice/src/test/java/in/parida/fitness/userservice/UserserviceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="39Vuour564TS46KYIWWM9obxqnl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ambika/projects/fullstack/fitnessApp/backend/activityService/pom.xml"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e698b52a-e95d-4417-8747-2632cad42336" name="Changes" comment="" />
+      <created>1770793737920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770793737920</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,5 +1,6 @@
 /home/ambika/projects/fullstack/fitnessApp/backend/activityService/src/main/java/in/parida/fitness/activityService/ActivityServiceApplication.java
 /home/ambika/projects/fullstack/fitnessApp/backend/activityService/src/main/java/in/parida/fitness/activityService/config/MongoConfig.java
+/home/ambika/projects/fullstack/fitnessApp/backend/activityService/src/main/java/in/parida/fitness/activityService/config/WebClientConfig.java
 /home/ambika/projects/fullstack/fitnessApp/backend/activityService/src/main/java/in/parida/fitness/activityService/controller/ActivityController.java
 /home/ambika/projects/fullstack/fitnessApp/backend/activityService/src/main/java/in/parida/fitness/activityService/dto/ActivityRequest.java
 /home/ambika/projects/fullstack/fitnessApp/backend/activityService/src/main/java/in/parida/fitness/activityService/dto/ActivityResponse.java
