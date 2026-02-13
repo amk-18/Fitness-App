@@ -13,6 +13,25 @@ spring:
 
       # Additional settings
       auto-index-creation: true
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: activity-processor-group
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      properties:
+        spring.json.use.type.headers: false
+        spring.json.value.default.type: in.parida.fitness.aiservice.model.Activity
+        spring.json.trusted.packages: "*"
+
+kafka:
+  topic:
+    name: activity-events
+
+gemini:
+  api:
+    key: ${GEMINI_KEY}
+    url: ${GEMINI_URL}
 
 eureka:
   client:
